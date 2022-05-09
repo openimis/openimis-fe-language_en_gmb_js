@@ -1,7 +1,7 @@
-import messages_en from "./translations/en.json";
+import messages_en_gm from "./translations/en-gm.json";
 
 const DEFAULT_CONFIG = {
-  "translations": [{ key: "en", messages: messages_en }],
+  "translations": [{ key: "en-gm", messages: messages_en_gm }],
 }
 
 export const LanguageEnGmbModule = (cfg) => {
