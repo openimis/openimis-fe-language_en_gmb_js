@@ -2233,6 +2233,16 @@
   "ecrvs.heraSubscriptions.create.mutationLabel": "Hera - Create subscription to {topic}",
   "ecrvs.heraSubscription.delete.confirm.title": "Hera - Unsubscribe",
   "ecrvs.heraSubscription.delete.confirm.message": "Do you want to unsubscribe from {topic} (subscribed on {date})?",
-  "ecrvs.heraSubscription.delete.mutationLabel": "Hera - Delete subscription {id}"
+  "ecrvs.heraSubscription.delete.mutationLabel": "Hera - Delete subscription {id}",
+  "claim.NhiaClaimsPaidReport.startDate": "Date From",
+  "claim.NhiaClaimsPaidReport.endDate": "Date To",
+  "claim.NhiaClaimsRejectedReport.startDate": "Date From",
+  "claim.NhiaClaimsRejectedReport.endDate": "Date To",
+  "claim.NhiaClaimsPendingReport.startDate": "Date From",
+  "claim.NhiaClaimsPendingReport.endDate": "Date To",
+  "policy.NhiaNewEnrollmentsReport.startDate": "Date From",
+  "policy.NhiaNewEnrollmentsReport.endDate": "Date To",
+  "policy.NhiaPolicyRenewalsReport.startDate": "Date From",
+  "policy.NhiaPolicyRenewalsReport.endDate": "Date To"
 }
 
