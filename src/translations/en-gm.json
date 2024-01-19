@@ -2243,6 +2243,7 @@
   "policy.NhiaNewEnrollmentsReport.startDate": "Date From",
   "policy.NhiaNewEnrollmentsReport.endDate": "Date To",
   "policy.NhiaPolicyRenewalsReport.startDate": "Date From",
-  "policy.NhiaPolicyRenewalsReport.endDate": "Date To"
+  "policy.NhiaPolicyRenewalsReport.endDate": "Date To",
+  "medical.item.nhiaCode": "NHIA Code"
 }
 
