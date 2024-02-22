@@ -544,6 +544,7 @@
   "insuree.Insuree.passport": "Identification No.",
   "insuree.Insuree.cardIssued": "Beneficiary Card",
   "insuree.Insuree.isPregnant": "Is Pregnant?",
+  "insuree.Insuree.isFormalSector": "Formal Sector",
   "insuree.Insuree.currentVillage.sameAsFamily": "Same Village as Family",
   "insuree.Insuree.currentAddress": "Address",
   "insuree.Insuree.currentAddress.sameAsFamily": "Same Address as Family",
