@@ -68,6 +68,7 @@
   "claim_batch.previewer.fileFormat": "File Format",
   "claim_batch.previewer.fileFormat.pdf": "PDF",
   "claim_batch.previewer.fileFormat.xlsx": "XLSX",
+  "claim_batch.previewer.missingFieldsError": "Error - please fill out all mandatory fields",
   "claim.mainMenu": "Claims",
   "claim.menu.healthFacilityClaims": "Health Facility Claims",
   "claim.menu.reviews": "Reviews",
