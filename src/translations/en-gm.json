@@ -1986,7 +1986,14 @@
         "message": "Deleting data does not mean erasing it from openIMIS database. The data will only be deactivated from the viewed list."
       },
       "mutationLabel": "Delete Bill {code}"
-    }
+    },
+    "selection.count": "Selected {count} bill(s)",
+    "report": {
+      "errorHeader": "Error",
+      "errorDetail": "There was an error with the report generation"
+    },
+    "downloadPDF": "Download PDF",
+    "downloadXLSX": "Download XLSX"
   },
   "bills": {
     "pageTitle": "Bills",
@@ -2126,6 +2133,10 @@
     "reconciliationId": "Reconciliation Id",
     "reconciliationDate": "Reconciliation Date"
   },
+  "invoice.bill.report.errorHeader": "Error",
+  "invoice.bill.report.errorDetail": "There was an error with the report generation",
+  "invoice.bill.downloadPDF": "Download PDF",
+  "invoice.bill.downloadXLSX": "Download XLSX",
   "claim.edit.services.MaxApproved": "Quantity set is more than quantity approved for this element. You will be reimbursed only for {totalApproved} element(s)",
   "location.Location0Picker.label": "Country",
   "location.Location1Picker.label": "LGA",
