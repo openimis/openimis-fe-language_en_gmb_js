@@ -2288,6 +2288,8 @@
   "policy.NhiaNewEnrollmentsReport.endDate": "Date To",
   "policy.NhiaPolicyRenewalsReport.startDate": "Date From",
   "policy.NhiaPolicyRenewalsReport.endDate": "Date To",
+  "contribution.NhiaFinancialReport.startDate": "Contributions Since",
+  "contribution.NhiaFinancialReport.endDate": "Contributions Until",
   "medical.item.nhiaCode": "NHIA Code",
   "ticket.mainMenu": "Ticket",
   "ticket.menu.my_entities" : "MY Ticket",
