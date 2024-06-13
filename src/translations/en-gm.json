@@ -2284,6 +2284,8 @@
   "claim.NhiaClaimsRejectedReport.endDate": "Date To",
   "claim.NhiaClaimsPendingReport.startDate": "Date From",
   "claim.NhiaClaimsPendingReport.endDate": "Date To",
+  "claim.NhiaClaimDetailsReport.startDate": "Date From",
+  "claim.NhiaClaimDetailsReport.endDate": "Date To",
   "policy.NhiaNewEnrollmentsReport.startDate": "Date From",
   "policy.NhiaNewEnrollmentsReport.endDate": "Date To",
   "policy.NhiaPolicyRenewalsReport.startDate": "Date From",
